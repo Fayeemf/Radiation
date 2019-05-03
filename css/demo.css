@@ -17,7 +17,7 @@
 
 body {
 	background: #fff;
-	color: #333;
+	color:black;
 	font-size: 1em;
 	font-family: 'Questrial', 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -31,20 +31,6 @@ a {
 a:hover, a:focus {
 	color: rgb(197, 135, 130);
 }
-
-.mobile-note {
-	position: absolute;
-	bottom: 1em;
-	color: #fff;
-	font-size: 1.15em;
-	text-align: center;
-	width: 100%;
-	padding: 1em;
-	background: #fb7f93;
-	display: none;
-	font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
 /* Header */
 .codrops-header {
 	text-align: center;
@@ -63,7 +49,7 @@ a:hover, a:focus {
 	position: absolute;
 	width: 100%;
 	top: 25vh;
-	color: #fff;
+	color: aqua;
 	pointer-events: none;
 	font-family: 'Playfair Display', Georgia, serif;
 }
@@ -71,7 +57,7 @@ a:hover, a:focus {
 .codrops-header h1 span {
 	display: block;
 	padding: 2em 0 1em;
-	color: #ffffff;
+	color: aqua;
 	font-size: 0.4em;
 	text-transform: uppercase;
 	font-weight: 400;
