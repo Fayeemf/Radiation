@@ -49,7 +49,7 @@ a:hover, a:focus {
 	position: absolute;
 	width: 100%;
 	top: 25vh;
-	color: aqua;
+	color: white;
 	pointer-events: none;
 	font-family: 'Playfair Display', Georgia, serif;
 }
@@ -57,7 +57,7 @@ a:hover, a:focus {
 .codrops-header h1 span {
 	display: block;
 	padding: 2em 0 1em;
-	color: aqua;
+	color: white;
 	font-size: 0.4em;
 	text-transform: uppercase;
 	font-weight: 400;
